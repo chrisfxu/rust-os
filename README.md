@@ -22,4 +22,4 @@ This project features the following:
 * Heap Allocation
 * Async/Await 
 
-[Demo](./demo.png)
+![Demo](./demo.png)
