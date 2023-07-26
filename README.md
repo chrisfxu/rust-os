@@ -20,6 +20,8 @@ This project features the following:
 * Hardware Interrupts
 * Paging 
 * Heap Allocation
-* Async/Await 
+* Async/Await
+
+This is a demo of the OS in action:
 
 ![Demo](./demo.png)
